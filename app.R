@@ -6,8 +6,7 @@ library(progress)
 library(bslib)
 library(openxlsx) # export excel
 
-# replace your own path
-#setwd("D:/Documents/R_program/Rutgers-Merck/app-5-test")
+
 source("rutgers.optimal.cat.blocks.random.ver.1.R")
 source("orthonormal.contrasts.R")
 source("generate_factor_input_panel.R")
