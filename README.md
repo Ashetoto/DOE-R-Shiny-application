@@ -18,15 +18,19 @@ You may follow the Help Document or click the questionnaire button on the applic
 
 - **User-friendly Interface:** Our application offers an intuitive and interactive website interface, ensuring ease of use for users at all skill levels.
   
-- **D-Optimal Designs:** We've implemented functionality to generate and evaluate D-optimal designs, a crucial aspect of experimental design for optimizing biological assays.
+- **Customizable Experimental Setup:** Easily specify the number of numeric factors and set their specific properties, including naming, range, and whether they are categorical factors.
   
-- **Custom Optimality Criteria:** Users have the flexibility to define custom optimality criteria, enabling tailored optimization based on specific experimental requirements.
+- **Automated Design Generation:** Generate D-optimal designs with just a few clicks, controlling the number of runs to meet your experiment's requirements.
   
-- **Statistical Diagnostics:** The application provides comprehensive statistical diagnostics, including D-Efficiency and power analysis, empowering users with insights into the quality and efficacy of their experimental designs.
+- **Advanced Formulation Options:** Define your own formulation for the experiment, allowing for precise customization of factors and interactions.
   
-- **Documentation:** We've included detailed help documents, functional specifications, and use cases to guide users through the application's features and functionalities.
+- **Comprehensive Statistical Analysis:** Access detailed design diagnostics, including D-Efficiency, A-Efficiency, G-Efficiency, and Average Variance of Prediction, empowering you with insights into the quality and robustness of your experimental design.
   
-- **Data Management:** Our framework allows users to save input parameters and output results, facilitating easy uploads for future reference and comparisons across multiple optimal designs.
+- **Powerful Visualization Tools:** Visualize your experimental design with interactive FDS plots, providing a clear understanding of the factor effects and interactions.
+  
+- **Efficient Data Management:** Save input parameters and output results for future reference, ensuring reproducibility and facilitating easy comparison across multiple optimal designs.
+
+
   
 ## Getting Started:
 
@@ -35,5 +39,5 @@ To get started with the Optimal Experimental Designs R/Shiny Application, simply
 1. Clone the repository to your local machine.
 2. Install the required dependencies as outlined in the documentation.
 3. Run the application using your preferred R environment.
-4. Explore the various features and functionalities to optimize your experimental designs efficiently.
+4. You may follow the Help Document provided in the application or follow the instructions outlined below to use this tool.
 
